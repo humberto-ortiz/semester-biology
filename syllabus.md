@@ -7,12 +7,9 @@ semester: Spring 2017
 professor: Dr. Humberto Ortiz-Zuazaga
 office: NCL A-159
 email: humberto.ortiz@upr.edu
-phone: x8864
-schedule: ['Tuesdays, 3-4, 219 Newins-Ziegler Hall',
-           'Fridays, 11:45-1:40, 222 Newins-Ziegler Hall']
+phone: 787-764-0000 x88363
+schedule: ['Monday and Wednesday, 1:00-2:20PM, CNL A-141']
 office_hours: Thursdays 3-4 pm, or by appointment
-TA: Andrew Marx
-TA_email: andrewjmarx@ufl.edu
 ---
 
 ## {{ site.title }} 
@@ -32,8 +29,6 @@ Phone: {{ page.phone }}
 
 
 ### Times & Location
-
-**Note: class is in different locations depending on the day of the week**
 
 {% for class in page.schedule %}
   {{ class }}
