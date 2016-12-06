@@ -1,13 +1,13 @@
 ---
 layout: page
 title: Syllabus
-catalog: WIS 6934
+catalog: MATH 6685
 credits: 3
-semester: Fall 2015
-professor: Dr. Ethan White
-office: Room 1 in Building 150 (just north of Newins-Zeigler)
-email: ethanwhite@ufl.edu
-phone: 352-294-2081
+semester: Spring 2017
+professor: Dr. Humberto Ortiz-Zuazaga
+office: NCL A-159
+email: humberto.ortiz@upr.edu
+phone: x8864
 schedule: ['Tuesdays, 3-4, 219 Newins-Ziegler Hall',
            'Fridays, 11:45-1:40, 222 Newins-Ziegler Hall']
 office_hours: Thursdays 3-4 pm, or by appointment
@@ -49,13 +49,6 @@ Location: {{ page.office }}
 *Note: my schedule gets very busy during the semester so please try to schedule
 appointments as far in advance as possible. In general it will be very difficult
 to set up appointments less than 24 hours in advance.*
-
-
-### Course TA
-
-{{ page.TA }}
-
-Email: {{ page.TA_email }}
 
 
 ### Website
@@ -119,7 +112,9 @@ Students completing this course will be able to:
   languages and database management systems
 
 
-### How this course relates to the Student Learning Outcomes in Wildlife Ecology and Conservation
+### How this course relates to the Student Learning Outcomes in ???
+
+FIXME
 
 This course contributes to the 'Quantitative Skills' and 'Conducting and
 Analyzing Independent/Original Research' Student Learning Outcomes specified in
@@ -186,8 +181,8 @@ quickly.
 
 ### Assignment policy
 
-Assignments are due Monday night by 11:59 pm Eastern Time. Assignments should be
-submitted via Canvas.
+Assignments are due Monday night by 11:55 pm Eastern Time. Assignments should be
+submitted via Moodle.
 
 
 ### Course Technology
@@ -200,26 +195,46 @@ please contact the instructor and they will do their best to provide you with
 one.
 
 
-## UF Policies
+## UPR Policies
 
 
 ### University Policy on Accommodating Students with Disabilities
 
-Students requesting accommodation for disabilities must first register with the
-Dean of Students Office (http://www.dso.ufl.edu/drc/). The Dean of Students
-Office will provide documentation to the student who must then provide this
-documentation to the instructor when requesting accommodation. You must submit
-this documentation prior to submitting assignments or taking the quizzes or
-exams. Accommodations are not retroactive, therefore, students should contact
-the office as soon as possible in the term for which they are seeking
-accommodations.
+Students with disabilities properly registered with the Office of
+Affairs for Persons with Disabilities <a
+href="http://estudiantes.uprrp.edu/impedimentos/impedimentos.php">Oficina
+de Asuntos para la Persona con Impedimento (O.A.P.I.)</a> should
+notify the professor at the start of the semester. The professor will
+make reasonable accommodations to support the student, in consultation
+with OAPI.
 
+### Academic integrity
 
-### University Policy on Academic Misconduct
+> The University of Puerto Rico promotes the highest standards of
+> academic and scientific integrity. Article 6.2 of the UPR Student
+> Bylaws (Certification JS 13 2009–2010) states that “academic
+> dishonesty includes but is not limited to: fraudulent actions,
+> obtaining grades or academic degrees using false or fraudulent
+> simulations, copying totally or partially academic work from another
+> person, plagiarizing totally or partially the work of another
+> person, copying totally or partially responses from another person
+> to examination questions, making another person to take any test,
+> oral or written examination on his/hers behalf, as well as assisting
+> or facilitating any person to incur in the aforementioned
+> conduct”. Fraudulent conduct refers to “behavior with the intent to
+> defraud, including but not limited to, malicious alteration or
+> falsification of grades, records, identification cards or other
+> official documents of the UPR or any other institution.” Any of
+> these actions shall be subject to disciplinary sanctions in
+> accordance with the disciplinary procedure, as stated in the
+> existing UPR Student Bylaws.
 
-Academic honesty and integrity are fundamental values of the University
-community. Students should be sure that they understand the UF Student Honor
-Code at http://www.dso.ufl.edu/students.php.
+DISCLAIMER: The above statement is an English translation, prepared at
+the Deanship of Academic Affairs of the Medical Sciences Campus, of
+certain parts of Article 6.2 of the UPR Student Bylaws “Reglamento
+General de Estudiantes de la Universidad de Puerto Rico”,
+(Certificación JS 13 2009-2010). It is in no way intended to be a
+legal substitute for the original document, written in Spanish.
 
 
 ### Netiquette and Communication Courtesy
@@ -230,27 +245,15 @@ courtesy in all email messages, threaded discussions and chats.
 
 ## Getting Help
 
-For issues with technical difficulties for E-learning in Canvas, please contact the UF Help Desk at:
+For issues with technical difficulties for E-learning in Moodle, please contact the DTAA Help Desk at:
 
-* Learning-support@ufl.edu 
-* (352) 392-HELP - select option 2
-* https://lss.at.ufl.edu/help.shtml 
+* http://helpdesk.uprrp.edu:9675/portal
 
 Any requests for make-ups due to technical issues MUST be accompanied by the
-ticket number received from LSS when the problem was reported to them. The
+ticket number received from DTAA when the problem was reported to them. The
 ticket number will document the time and date of the problem. You MUST e-mail
 your instructor within 24 hours of the technical difficulty if you wish to
 request a make-up.
-
-Other resources are available at http://www.distance.ufl.edu/getting-help for:
-
-* Counseling and Wellness resources
-* Disability resources
-* Resources for handling student concerns and complaints
-* Library Help Desk support
-
-Should you have any complaints with your experience in this course please visit
-http://www.distance.ufl.edu/student-complaints to submit a complaint.
 
 Most importantly, if you are struggling for any reason please come talk to me
 and I will do my best to help.
@@ -278,17 +281,11 @@ the two.
 
 ### Grading scale
 
-- **A 93-100**
-- **A- 90-92**
-- **B+ 87-89**
-- **B 83-86**
-- **B- 80-82**
-- **C+ 77-79**
-- **C 73-76**
-- **C- 70-72**
-- **D+ 67-69**
-- **D 60-66**
-- **E <60**
+- **A 90-100**
+- **B 80-89**
+- **C 70-79**
+- **D 60-69**
+- **F <60**
 
 
 ## Course Schedule
